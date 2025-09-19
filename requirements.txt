@@ -1,0 +1,6 @@
+python-dotenv
+click
+jinja2
+google-generativeai
+Pillow
+ffmpeg-python
